@@ -15,11 +15,12 @@ The Pre-Triage Application
 
 The application starts by displaying a simple menu with three options:
 
-General Hospital Pre-Triage Application
-1- Register
-2- Admit
-0- Exit
->
+    General Hospital Pre-Triage Application
+    
+    1- Register
+    2- Admit
+    0- Exit
+    >
 
 # Register
 
