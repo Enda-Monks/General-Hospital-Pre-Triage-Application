@@ -3,9 +3,7 @@
     MS1 V1.0
     MS2 V1.0
     MS3 V1.1
-    V1.1: corrected minor problem in ms3tester.
     MS4 V1.1
-    Corrected typo in csvRead, changed ostream to istream Here and Here
     MS5 V0.8 (Final Milestone)
 
 Because of the pandemic and prevention of the spread of COVID19, hospitals need to screen the patients and separate those in need of COVID-test from others. This has to be done in an orderly fashion by letting the patients know what is the expected wait time and let them know when they can be admitted.
