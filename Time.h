@@ -60,9 +60,9 @@ namespace sdds {
 
    // Conversion Clock Helpers:
    // =========================
-   int getHourClock(const int totMins); // kathleen's prototype
-   int getMinClock(const int totMins); // kathleen's prototype
-   int getTotMinsFromClock(const int mins, const int hour); // kathleen's prototype
+   int getHourClock(const int totMins);
+   int getMinClock(const int totMins); 
+   int getTotMinsFromClock(const int mins, const int hour); 
 }
 
 #endif // !SDDS_TIME_H

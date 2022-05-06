@@ -34,8 +34,8 @@ namespace sdds
         // Member Functions
         // ================
         void display()const;
-        void setEmpty();  // kathleen's prototype
-        void setContent(const char* content);  // kathleen's prototype
+        void setEmpty();  
+        void setContent(const char* content);  
     public:
         // ===============================================
         Menu(const char* MenuContent, int NoOfSelections);

@@ -34,7 +34,7 @@ namespace sdds
 		int m_ohipNo;
 		Ticket m_lineTicket;
 		bool m_processing = true;
-		void setEmpty(); // kathleen's prototype
+		void setEmpty(); 
 
 	public:
 		// ================================================

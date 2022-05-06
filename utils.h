@@ -39,15 +39,15 @@ namespace sdds {
 
     // Validation Utils
     // ================
-    bool isValidIntFromRange(const int subject, const int minLimit, const int maxLimit); // kathleen's prototype
-    bool isValidCString(const char* string); // kathleen's protytype
-    bool isPositiveIntOrZero(const int arg); // kathleen's protytype
-    bool isValidFilename(const char* fname); // csv ext. , kathleen's prototype
+    bool isValidIntFromRange(const int subject, const int minLimit, const int maxLimit); 
+    bool isValidCString(const char* string); 
+    bool isPositiveIntOrZero(const int arg); 
+    bool isValidFilename(const char* fname); // csv ext.
 
     // C-String Utils
     // ==============
-    int strLen(const char* s); // via workshop 1
-    void strCpy(char* des, const char* src); // via workshop 1
+    int strLen(const char* s); 
+    void strCpy(char* des, const char* src); 
 
     // Templates
     // =========
