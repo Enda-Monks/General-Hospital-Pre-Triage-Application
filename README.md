@@ -1,4 +1,4 @@
-General Hospital Pre-Triage Application
+# General Hospital Pre-Triage Application
 
 Final Project for Seneca's OOP244
 
